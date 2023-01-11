@@ -4,7 +4,7 @@
     "url": "http://l.qzh.cool:88",
     "icon": "https://icons.duckduckgo.com/ip3/l.qzh.cool.ico",
     "slug": "l-qzh-cool-88",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1608,
     "timeMonth": 1608,
     "timeYear": 1608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-11": 0
+    }
   }
 ]
