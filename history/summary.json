@@ -4,19 +4,19 @@
     "url": "http://l.qzh.cool:88",
     "icon": "https://icons.duckduckgo.com/ip3/l.qzh.cool.ico",
     "slug": "l-qzh-cool-88",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1608,
-    "timeDay": 1714,
-    "timeWeek": 1608,
-    "timeMonth": 1608,
-    "timeYear": 1608,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 1545,
+    "timeDay": 1504,
+    "timeWeek": 1545,
+    "timeMonth": 1545,
+    "timeYear": 1545,
     "dailyMinutesDown": {
-      "2023-01-11": 0
+      "2023-01-11": 20
     }
   }
 ]
