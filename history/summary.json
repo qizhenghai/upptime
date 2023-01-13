@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/l.qzh.cool.ico",
     "slug": "l-qzh-cool-88",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptime": "89.81%",
+    "uptimeDay": "63.85%",
+    "uptimeWeek": "89.81%",
+    "uptimeMonth": "89.81%",
+    "uptimeYear": "89.81%",
     "time": 1586,
-    "timeDay": 1542,
+    "timeDay": 0,
     "timeWeek": 1586,
     "timeMonth": 1586,
     "timeYear": 1586,
     "dailyMinutesDown": {
-      "2023-01-12": 0,
+      "2023-01-13": 54,
+      "2023-01-12": 467,
       "2023-01-11": 20
     }
   }
