@@ -3,8 +3,8 @@ owner: qizhenghai2020 # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
-  - name: l.qzh.cool:88
-    url: http://l.qzh.cool:88
+  - name: 
+    url: 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
